@@ -21,7 +21,10 @@ namespace VariousTypes
             Console.WriteLine(char2);
             Console.WriteLine(char3);
             
-            
+            float real1 = 3.1415f;
+            decimal real2 = 3.1415m;
+            Console.WriteLine(real1);
+            Console.WriteLine(real2);
         }
     }
 }
