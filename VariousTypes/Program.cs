@@ -25,6 +25,11 @@ namespace VariousTypes
             decimal real2 = 3.1415m;
             Console.WriteLine(real1);
             Console.WriteLine(real2);
+
+            bool boolean1 = 5 < 3; 
+            bool boolean2 = 5 > 3;
+            Console.WriteLine(boolean1);
+            Console.WriteLine(boolean2);
         }
     }
 }
