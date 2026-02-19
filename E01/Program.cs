@@ -7,6 +7,8 @@ namespace E01
         private static void Main(string[] args)
         {
             Console.WriteLine("Hello LP!");
+            string registredChar = "\\u00AE";
+            Console.WriteLine(registredChar);
         }
     }
 }
